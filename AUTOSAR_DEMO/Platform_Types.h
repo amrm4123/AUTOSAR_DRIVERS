@@ -19,7 +19,7 @@ typedef    signed long int          sint32_t;
 typedef    signed long long         sint64_t;
 
 
-typedef enum{FALSE=0,TRUE=1}bool_t;
+//typedef enum{FALSE=0,TRUE=1}bool_t;
 
 typedef   float    f32_t;
 
